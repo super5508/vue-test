@@ -3674,6 +3674,11 @@ html-tags@^2.0.0:
   resolved "https://registry.npm.taobao.org/html-tags/download/html-tags-2.0.0.tgz#10b30a386085f43cede353cc8fa7cb0deeea668b"
   integrity sha1-ELMKOGCF9Dzt41PMj6fLDe7qZos=
 
+html-to-image@^0.1.1:
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/html-to-image/-/html-to-image-0.1.1.tgz#0db51267b4bbd1bc682a07d8dae44bc431ec6acd"
+  integrity sha512-UAjpXmokENeOyzfLwL0+zQ502lXyg6pkzVUmRjtljOH9dR/YdEYQhWrQ/O14hmH5/1L7jv1aOupU4Zi3Y8+iow==
+
 html-webpack-plugin@^3.2.0:
   version "3.2.0"
   resolved "https://registry.npm.taobao.org/html-webpack-plugin/download/html-webpack-plugin-3.2.0.tgz#b01abbd723acaaa7b37b6af4492ebda03d9dd37b"
@@ -7303,6 +7308,16 @@ vue@^2.6.11:
   version "2.6.11"
   resolved "https://registry.npm.taobao.org/vue/download/vue-2.6.11.tgz#76594d877d4b12234406e84e35275c6d514125c5"
   integrity sha1-dllNh31LEiNEBuhONSdcbVFBJcU=
+
+vuetify@^2.2.11:
+  version "2.2.11"
+  resolved "https://registry.yarnpkg.com/vuetify/-/vuetify-2.2.11.tgz#40133761842c556070c5dc749ee32cb9df9ffe7f"
+  integrity sha512-lqhW7UIEx742G0VRAgXS1q2h4aAAGC7QTh2gxha+w12NsF5lrNXy2/ob5qvdklzCk6qS0ij7zbh2FooDdGP/QQ==
+
+vuex@^3.1.2:
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/vuex/-/vuex-3.1.2.tgz#a2863f4005aa73f2587e55c3fadf3f01f69c7d4d"
+  integrity sha512-ha3jNLJqNhhrAemDXcmMJMKf1Zu4sybMPr9KxJIuOpVcsDQlTBYLLladav2U+g1AvdYDG5Gs0xBTb0M5pXXYFQ==
 
 watchpack@^1.6.0:
   version "1.6.0"
