@@ -27,6 +27,10 @@
         @click="nextStep"
       >Next</v-btn>
     </v-col>
+    <v-col cols="12" class="mt-12">
+      <h3 class="headline primary--text text-center">"It's better to make someting that 100 people love than something that 1,000 like" 
+        - Paul Graham</h3>
+    </v-col>
   </v-row>
 </template>
 
